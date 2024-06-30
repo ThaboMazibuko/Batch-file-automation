@@ -1,0 +1,23 @@
+https://magento.softwaretestingboard.com/customer/account/create/firstname=peter
+lastname=William
+email=wpeter@gmail.com
+password=Peter@2987
+comfirm password=Peter@2987
+firstname=peter
+lastname=William
+company=Eskom
+streetaddress=123 munni
+city=pretoria
+province=ghana
+postal code=56378
+country =united states
+telephone=0712635463
+
+
+
+
+
+
+
+
+
